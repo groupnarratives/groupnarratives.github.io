@@ -1,7 +1,7 @@
 # Setup
-title:               Group Narratives Ltd
+title:               Group Narratives
 tagline:             'group dynamics in business'
-description:         ''
+description:         'Consulting in New Zealand and online in project management and group dynamics and stakeholder management'
 url:                 https://groupnarratives.co.nz
 baseurl:             /
 paginate:            5
@@ -12,7 +12,7 @@ permalink: /:title/
 
 # About/contact
 author:
-  name:              Lee Jordan
+  name:              Gerald Lee Jordan
   url:               https://twitter.com/groupnarratives
   email:             geraldleejordan@gmail.com
 
