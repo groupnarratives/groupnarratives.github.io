@@ -99,12 +99,14 @@ p a {
 /*  color: #3c4c54; */
 }
 
-.posts a {
-  text-decoration: underline;
-}
-
 .post a {
   text-decoration: underline;
+  color: #396080;
+}
+
+.post-title a {
+  text-decoration: underline;
+  color: #396080;
 }
 
 .page a {
