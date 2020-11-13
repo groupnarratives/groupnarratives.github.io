@@ -82,7 +82,7 @@ p a {
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 20px;
-  border-left: 20px solid #b30000;
+  border-left: 20px solid #396080;
   color: #333333;
 }
 
@@ -120,7 +120,7 @@ ul li a {
 }
 
 .highlight-text {
-  background-color: #f5f3c1;
+  background-color: #f5f5bc;
 }
 
 .masthead-title small {
