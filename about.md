@@ -3,11 +3,9 @@ layout: page
 title: About
 ---
 
-<h2>Gerald Lee Jordan</h2>
+<h2>Group Narratives</h2>
 
-<p>I began counselling in the 1980s and, after many years of life experience (study, travel, parenting and work), I returned to this love by beginning a <i>Master of Counselling</i> and volunteer telephone counsellor training in 2009.</p>
-
-<p>Few things bring me more joy or satisfaction than helping others and I am currently expanding my assistance into newer endeavours online.</p>
+<p></p>
 
 <img class="img-border" src="https://therapyaroha.co.nz/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
 
@@ -22,9 +20,3 @@ I am in Te Whanganui-a-Tara (Wellington) Aotearoa New Zealand and my current dat
 <h2>Keybase</h2>
 
 <p>If you are a client and would prefer a more immediate response than by email, you can reach me on Keybase <a href="https://keybase.io/geraldleejordan/chat" rel="nofollow" target="_blank">here</a>.</p>
-
-<p>Aroha nui,</p>
-
-<img src="https://therapyaroha.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
-
-Lee Jordan, MBA, MEd, MCouns ❤️
