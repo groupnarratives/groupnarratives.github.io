@@ -7,11 +7,11 @@ title: About
 
 <p></p>
 
-<img class="img-border" src="https://therapyaroha.co.nz/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
+<img class="img-border" src="https://groupnarratives.co.nz/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
 
 <h2>Contact</h2>
 
-<p>My email <span class="highlight-text">for those requesting counselling services</span> is <a href="mailto:hello@therapyaroha.co.nz">hello@therapyaroha.co.nz</a>. Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).</p>
+<p>My email <span class="highlight-text">for those requesting counselling services</span> is <a href="mailto:hello@groupnarratives.co.nz">hello@groupnarratives.co.nz</a>. Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).</p>
 
 <h2>Date and Time</h2>
 
